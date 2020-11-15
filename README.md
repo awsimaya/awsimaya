@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, Imaya here.
+
+You can see me hanging out on [LinkedIn](https://www.linkedin.com/in/imaya/) and [Twitter](https://twitter.com/imaya).
 
 <!--
 **awsimaya/awsimaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
